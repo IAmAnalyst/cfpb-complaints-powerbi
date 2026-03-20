@@ -16,7 +16,7 @@ from the Consumer Financial Protection Bureau (CFPB).
 Power BI · DAX · Power Query · Data Modelling
 
 ## Dashboard Preview
-![Dashboard](./Consumer-Financials-1.png)
+![Dashboard](./CFC_.png)
 
 ## Challenge
 Onyx Data Community Challenge
